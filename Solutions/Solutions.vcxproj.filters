@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Solutions">
+      <UniqueIdentifier>{d0cd6f84-2e36-4494-bb78-a198d9111b9a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Solutions\Solution1.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Solution2.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Solution3.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Solution4.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Solution5.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Solution6.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Solution7.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Solution8.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Solution9.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Solutions\Solution10.cpp">
+      <Filter>Solutions</Filter>
+    </ClCompile>
+    <ClCompile Include="Program.cpp" />
+  </ItemGroup>
+</Project>
